@@ -15,7 +15,7 @@ import { SiTailwindcss, SiNextdotjs } from "react-icons/si";
 const about = {
   title: "About me",
   description:
-    "A versatile Full Stack Developer with 3 years of experience in developing and maintaining web applications, bringing the precision of F1 engineering and the strategic teamwork of football. Competent in Java, Python, MERN stack, Django, and Spring Boot, and skilled in driving transformative initiatives with seamless integration and functionality — always pushing for peak performance.",
+    "A versatile Full Stack Developer with 4 years of experience in developing and maintaining web applications, bringing the precision of F1 engineering and the strategic teamwork of football. Competent in Java, Python, MERN stack, Django, and Spring Boot, and skilled in driving transformative initiatives with seamless integration and functionality — always pushing for peak performance.",
   info: [
     {
       fieldName: "Name",
@@ -65,12 +65,12 @@ const education = {
   items: [
     {
       institution: "University of Cincinnati",
-      degree: "Masters in IT",
+      degree: "Masters",
       duration: "2023 - 2024",
     },
     {
       institution: "Gitam Deemed to be University",
-      degree: "Bachelors in EEE",
+      degree: "Bachelors",
       duration: "2018 - 2022",
     },
   ],
