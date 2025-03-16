@@ -23,7 +23,7 @@ const about = {
     },
     {
       fieldName: "Phone",
-      fieldValue: "(+1) 513 879 2473",
+      fieldValue: "(+1) 720-465-1302",
     },
     {
       fieldName: "Experience",
@@ -31,7 +31,7 @@ const about = {
     },
     {
       fieldName: "Email",
-      fieldValue: "Manoharpaleti9@gmail.com",
+      fieldValue: "paletimanohar4@gmail.com",
     },
     {
       fieldName: "Languages",
@@ -40,7 +40,6 @@ const about = {
   ],
 };
 
-// experience data
 const experience = {
   icon: "/assets/resume/badge.svg",
   title: "My experience",
@@ -63,7 +62,6 @@ const experience = {
   ],
 };
 
-// education data
 const education = {
   icon: "/assets/resume/cap.svg",
   title: "My education",
@@ -71,23 +69,20 @@ const education = {
     {
       institution: "University of Cincinnati",
       degree: "Masters",
-      duration: "2023 - 2024",
     },
     {
       institution: "Gitam Deemed to be University",
       degree: "Bachelors",
-      duration: "2018 - 2022",
     },
   ],
 };
 
-// skills data
 const skills = {
   title: "My skills",
   skillList: [
     {
-      icon: <FaHtml5 />,
-      name: "html 5",
+      icon: <FaJava />,
+      name: "Java",
     },
     {
       icon: <FaCss3 />,
