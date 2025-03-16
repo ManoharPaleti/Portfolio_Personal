@@ -1,7 +1,7 @@
 "use client";
 
 import {
-  FaHtml5,
+  FaJava,
   FaCss3,
   FaJs,
   FaReact,
