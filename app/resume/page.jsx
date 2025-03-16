@@ -51,9 +51,14 @@ const experience = {
       duration: "2024 - Present",
     },
     {
-      company: "Sea Gate Pvt Ltd",
-      position: "Software Engineer",
+      company: "Digital Eyecon Pvt Ltd",
+      position: "Software Developer",
       duration: "2020 - 2022",
+    },
+    {
+      company: "Sea Gate Pvt Ltd",
+      position: "Associate Software Developer",
+      duration: "2020 - 2020",
     },
   ],
 };
