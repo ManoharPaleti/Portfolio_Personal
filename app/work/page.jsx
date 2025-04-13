@@ -22,10 +22,10 @@ import WorkSliderBtns from "@/components/WorkSliderBtns";
 const projects = [
   {
     num: "01",
-    category: "Responsive Gym",
+    category: "Fitness Tracker",
     title: "Website",
     description:
-      "Created a Responsive gym website using ReactJs",
+      "Created a Fitness Tracker application using ReactJs",
     stack: [{ name: "Html 5" }, { name: "Css 3" }, { name: "ReactJs" }],
     image: "/assets/work/thumb1.png",
     live: "",
@@ -33,10 +33,10 @@ const projects = [
   },
   {
     num: "02",
-    category: "Responsive Flight Booking",
+    category: "Flight Booking",
     title: "Website",
     description:
-      "Developed a Flight Booking website using Tailwind, Node.Js",
+      "Developed a Flight Booking application using Tailwind, Node.Js",
     stack: [{ name: "Next.js" }, { name: "Tailwind.css" }, { name: "Node.js" }],
     image: "/assets/work/thumb2.png",
     live: "",
