@@ -45,17 +45,21 @@ const experience = {
   title: "My experience",
   items: [
     {
+      company: "PTC",
+      position: "Full Stack Software Engineer",
+      duration: "OCT 2024 - Present",
+    {
       company: "Hudson's Bay Company",
       position: "Full Stack Developer",
-      duration: "2024 - Present",
+      duration: "Jan 2024 - Oct 2024",
     },
     {
-      company: "Digital Eyecon Pvt Ltd",
+      company: "Cognizant Technology",
       position: "Software Developer",
       duration: "2020 - 2022",
     },
     {
-      company: "Sea Gate Pvt Ltd",
+      company: "Digital Eyecon Pvt Ltd",
       position: "Associate Software Developer",
       duration: "2020 - 2020",
     },
