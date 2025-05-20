@@ -48,6 +48,7 @@ const experience = {
       company: "PTC",
       position: "Full Stack Software Engineer",
       duration: "OCT 2024 - Present",
+    }, 
     {
       company: "Hudson's Bay Company",
       position: "Full Stack Developer",
